@@ -223,5 +223,8 @@ public class Application {
 	
 		System.out.println("max val of byte = " + Byte.MAX_VALUE);
 		System.out.println("min val of byte = " + Byte.MIN_VALUE);
+		
+		//first gommit to GitHub
+		
 	}
 }
